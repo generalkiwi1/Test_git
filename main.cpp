@@ -3,7 +3,7 @@
 int main(int argc, char* argv)
 {
 	/// Allllllllllllllllllllllllllllllllo
-	std::out << "Hello world" << std::endl;
+	std::cout << "Hello world" << std::endl;
 	
 	return 0;
 }
