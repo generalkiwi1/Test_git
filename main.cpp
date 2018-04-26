@@ -2,8 +2,10 @@
 
 int main(int argc, char* argv)
 {
-	/// Comment
-	std::out << "Bonjour tous les mondes" << std::endl;
+
+	/// Allllllllllllllllllllllllllllllllo
+	std::cout << "Hello world" << std::endl;
+
 	
 	return 0;
 }
