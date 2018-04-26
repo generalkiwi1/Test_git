@@ -3,7 +3,7 @@
 int main(int argc, char* argv)
 {
 	/// Comment
-	std::out << "Bonjour le monde" << std::endl;
+	std::out << "Bonjour tous les mondes" << std::endl;
 	
 	return 0;
 }
